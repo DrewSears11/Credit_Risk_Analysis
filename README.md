@@ -41,4 +41,5 @@ The purpose of this analysis is to help our friend Jill use statistcal reasoning
 
 ## Summary
 
+The balanced accuracy score of all 6 ranges between 0.63 and 0.66.  This isn't horrible but it's not great either.  Of all 6, I would reccomend using either of the last 2 Classifer systems as they have the highest precision ratings among high risk at 0.72.
 
