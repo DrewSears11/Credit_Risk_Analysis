@@ -21,6 +21,7 @@ The purpose of this analysis is to help our friend Jill use statistcal reasoning
   * The balanced accuracy score for UnderSampling is 0.63
   ![image](https://user-images.githubusercontent.com/108240844/198165550-3bca93ab-0484-4730-85ac-3ae3864074d4.png)
   * The precision is the same as the three above.  There is a substansial difference in the low risk recall accuracy with is 0.45, the lowest we've seen so far.
+  
   ![image](https://user-images.githubusercontent.com/108240844/198166160-9c59a07e-d6ea-471e-ae07-7f5278bcabb7.png)
   ### Combination Sampling
   * The balanced accuracy score for Combination Sampling is 0.64.  All 4 of our Over / Under Samplings have been near the same accuracy.
